@@ -1,0 +1,23 @@
+.styledFont {
+  color: green;
+}
+.important {
+ font-weight: bold;
+}
+.creative{
+  font-family: cursive;
+}
+.combine {
+  color: orange;
+  font-weight: bold;
+  font-size: 28px;
+}
+img {
+display: block;
+margin-left: 35px;
+margin-right: auto;
+width: 30%;
+}
+#css3{
+border: 10px ridgez red;
+}
